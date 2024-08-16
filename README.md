@@ -1,5 +1,5 @@
 # BL9
-A huge sci-fi action adventure content mod for Cataclysm Dark Days Ahead along with Bright Nights greatly inspired by Resident Evil series by Capcom along with Half Life series by Valve as well 
+Not updated anymore. If you want to play with it, you have to fix it yourself, preferably, via making a fork of it if you don't mind. A huge sci-fi action adventure content mod for Cataclysm Dark Days Ahead along with Bright Nights greatly inspired by Resident Evil series by Capcom along with Half Life series by Valve as well 
 
 ## Prerequisites 
 **None, but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Xedra Evolved, Mind Over Matter, Cata++, Arcana, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
