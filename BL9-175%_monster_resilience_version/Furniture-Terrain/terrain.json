@@ -567,7 +567,7 @@
     "name": "empty space",
     "looks_like": "t_resin_hole",
     "description": "This is empty space.",
-    "symbol": "LINE_OXOX",
+    "symbol": "O",
     "color": "light_cyan",
     "move_cost": 0,
     "coverage": 90,

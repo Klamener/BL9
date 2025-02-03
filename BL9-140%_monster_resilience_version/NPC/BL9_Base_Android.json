@@ -3,10 +3,7 @@
     "id": "TALK_BL9_BASE_ANDROID",
     "type": "talk_topic",
     "dynamic_line": {
-      "u_has_var": "BL9_shields_on",
-      "type": "dialogue",
-      "context": "lifehope",
-      "value": "yes",
+      "compare_string": [ "yes", { "u_val": "BL9_shields_on" } ],
       "yes": "Welcome to BL9 Safety Base, survivor of hope in life, you don't mind if I call you like this? All systems are online, Energy Shield works exactly as my masters, as we have all, hoped for, thanks to your work! If inhabitants decide to go outside, shield will be deactivated for a split second then turned on again. If inhabitants decide to go back here, scanners, installed near entrance, will scan them, if they are former inhabitants, inhabitants will be able to go back here, shield will be deactivated for split second then turned back on again. My masters ordered me to advise you to make this your permanent, safe home here. Make a family, bring your love here, have children, adopt children, live as a civilization hopefully as well",
       "no": "Welcome to BL9 Safety Base, I am a control Android. We are one system of multiple control machines connected via a network. We are built with a purpose to ensure safe work of all systems in BL9 Safety Bases. If you are new here, I suggest you to access my storage system with intel along with journals in order to learn as much information as possible about essentially everything related to BL9, which has been collected by my masters, this is a must. If you are already experienced, know what our main goals are, feel free to ask me questions that you have"
     },
@@ -14,7 +11,7 @@
       {
         "text": "I want to talk about Shield Generator",
         "topic": "TALK_BL9_BASE_ANDROID1",
-        "condition": { "not": { "u_has_var": "BL9_shields_on", "type": "dialogue", "context": "lifehope", "value": "yes" } }
+        "condition": { "not": { "compare_string": [ "yes", { "u_val": "BL9_shields_on" } ] } }
       },
       { "text": "What is the purpose of these BL9 Safety Bases?", "topic": "TALK_BL9_BASE_ANDROID2" },
       {
@@ -64,10 +61,7 @@
     "id": "TALK_BL9_BASE_ANDROID2",
     "type": "talk_topic",
     "dynamic_line": {
-      "u_has_var": "BL9_shields_on",
-      "type": "dialogue",
-      "context": "lifehope",
-      "value": "yes",
+      "compare_string": [ "yes", { "u_val": "BL9_shields_on" } ],
       "yes": "The sole purpose of BL9 Safety Bases is to make safe areas for people to live, work, love, procreate, make families, have children, adopt children, live as a civilization in. Thanks to your work, we have an active Energy Shield now, which makes an already relatively safe area a beacon of hope, civilization for people, for you also. My masters advise you to make this your permanent, safe home here. Try to do things that I have listed. Try to do what, in the past, was a luxury, but thanks to your work now is accessible, is what all people should strive for hopefully. Just try to help me with cleaning, alright? Humans along with 'Alliance' are not that different. Both make a lot of mess when they eat or have a sexual intercourse. Don't ask me how I know this",
       "no": "The sole purpose of BL9 Safety Bases is to make safe areas for people to live, work, love, procreate, make families, have children, adopt children, live as a civilization in. Even without active Energy Shield, these are still relatively safe areas to live in, try to do things that I have listed. However, to ensure protection from all living horrors of Cataclysm, we need actually to have active Energy Shield hopefully. You can still try to do things from this list whenever you want to. Just try to help me with cleaning, alright? Humans along with 'Alliance' are not that different. Both make a lot of mess when they eat or have a sexual intercourse. Don't ask me how I know this"
     },

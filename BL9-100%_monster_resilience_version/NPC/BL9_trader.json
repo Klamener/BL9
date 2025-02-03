@@ -27,7 +27,7 @@
           { "u_spawn_item": "BL9_pistol", "count": 1 },
           { "u_spawn_item": "9mmBL9mag", "count": 3 },
           { "u_spawn_item": "BL9_repair_soldering", "count": 1 },
-          { "u_add_var": "BL9_pistol", "type": "bought", "context": "cash", "value": "yes" }
+          { "u_add_var": "BL9_pistol", "value": "yes" }
         ]
       },
       {

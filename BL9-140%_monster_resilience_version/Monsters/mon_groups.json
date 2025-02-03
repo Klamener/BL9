@@ -1,7 +1,7 @@
 [
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE",
+    "id": "GROUP_ZOMBIE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -816,7 +816,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_POLICE",
+    "id": "GROUP_POLICE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1429,7 +1429,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_SEWER",
+    "id": "GROUP_SEWER",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1988,7 +1988,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_FOREST",
+    "id": "GROUP_FOREST",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -2119,7 +2119,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_SWAMP",
+    "id": "GROUP_SWAMP",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -2250,7 +2250,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "CAMPERS",
+    "id": "CAMPERS",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -2381,7 +2381,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_CAVE",
+    "id": "GROUP_CAVE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -2512,7 +2512,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_MAYBE_ZOMBIE",
+    "id": "GROUP_MAYBE_ZOMBIE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -3327,7 +3327,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_MAYBE_MIL",
+    "id": "GROUP_MAYBE_MIL",
     "override": false,
     "auto_total": true,
     "//": "50% chance military zombie or robot",
@@ -4143,7 +4143,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_SMALL_STATION",
+    "id": "GROUP_SMALL_STATION",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -4958,7 +4958,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_LARGE_STATION",
+    "id": "GROUP_LARGE_STATION",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -5773,7 +5773,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_STEEL_MILL",
+    "id": "GROUP_STEEL_MILL",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -6588,7 +6588,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_MALL",
+    "id": "GROUP_MALL",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -7402,7 +7402,7 @@
     ]
   },
   {
-    "name": "GROUP_MIL_WEAK",
+    "id": "GROUP_MIL_WEAK",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -7868,7 +7868,7 @@
     ]
   },
   {
-    "name": "GROUP_MIL_STRONG",
+    "id": "GROUP_MIL_STRONG",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -8312,7 +8312,7 @@
     ]
   },
   {
-    "name": "GROUP_MIL_BASE",
+    "id": "GROUP_MIL_BASE",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",

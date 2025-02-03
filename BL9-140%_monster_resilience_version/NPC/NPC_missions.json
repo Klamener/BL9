@@ -122,8 +122,7 @@
       "assign_mission_target": {
         "om_terrain": "castlelan_castle_entr1_left",
         "reveal_radius": 5,
-        "om_special": "BL9_castlelan_castle",
-        "search_range": 368
+        "om_special": "BL9_castlelan_castle"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -152,8 +151,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_anomaly_infested_facility1",
         "reveal_radius": 5,
-        "om_special": "BL9_facility_anomaly",
-        "search_range": 368
+        "om_special": "BL9_facility_anomaly"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -179,7 +177,7 @@
     "difficulty": 4,
     "value": 368000,
     "start": {
-      "assign_mission_target": { "om_terrain": "BL9_Island_Entrance1", "reveal_radius": 5, "om_special": "BL9_island", "search_range": 368 }
+      "assign_mission_target": { "om_terrain": "BL9_Island_Entrance1", "reveal_radius": 5, "om_special": "BL9_island" }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
     "dialogue": {
@@ -207,8 +205,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_hivecaves_guardtower1",
         "reveal_radius": 5,
-        "om_special": "BL9_hive_caves_biome",
-        "search_range": 368
+        "om_special": "BL9_hive_caves_biome"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -237,8 +234,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_sandcaves_guardtower1",
         "reveal_radius": 5,
-        "om_special": "BL9_sandruins_caves_biome",
-        "search_range": 368
+        "om_special": "BL9_sandruins_caves_biome"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -267,8 +263,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_acidcaves_guardtower1",
         "reveal_radius": 5,
-        "om_special": "BL9_acid_caves_biome",
-        "search_range": 368
+        "om_special": "BL9_acid_caves_biome"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -297,8 +292,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_watercaves_guardtower1",
         "reveal_radius": 5,
-        "om_special": "BL9_water_caves_biome",
-        "search_range": 368
+        "om_special": "BL9_water_caves_biome"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -327,8 +321,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_lavacaves_guardtower1",
         "reveal_radius": 5,
-        "om_special": "BL9_lava_caves_biome",
-        "search_range": 368
+        "om_special": "BL9_lava_caves_biome"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -357,8 +350,7 @@
       "assign_mission_target": {
         "om_terrain": "BL9_anomaly_mobile_alliance_base1",
         "reveal_radius": 5,
-        "om_special": "BL9_alliance_base",
-        "search_range": 368
+        "om_special": "BL9_alliance_base"
       }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
