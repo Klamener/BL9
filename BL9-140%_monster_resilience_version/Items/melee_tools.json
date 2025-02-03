@@ -3788,10 +3788,10 @@
         "item_restriction": [
           "light_minus_battery_cell",
           "light_battery_cell",
-          "light_cell_rechargeable"
-          "light_minus_disposable_cell"
-          "medium_battery_cell"
-          "heavy_battery_cell"
+          "light_cell_rechargeable",
+          "light_minus_disposable_cell",
+          "medium_battery_cell",
+          "heavy_battery_cell",
           "heavy_plus_battery_cell"
         ]
       }
