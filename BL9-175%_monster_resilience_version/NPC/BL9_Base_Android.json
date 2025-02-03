@@ -48,7 +48,7 @@
     "id": "TALK_BL9_BASE_ANDROID1_1",
     "type": "talk_topic",
     "dynamic_line": "Initiate Radio Call. You can hear me? I am the creator of this Shield Generator that you have helped us to activate! You have managed to do this! Also, these structures that belong to 'Alliance', some of which you have cleared, have a lot of remaining tech for our scavengers teams to salvage. This means that not only your BL9 Safety Base is a beacon of hope for life now, but also our own structures! We can actually restore civilization, restore humanity now! Power cells in these generators will work for a very long time, decades, if not for a century essentially. Not even mentioning remaining tech that 'Alliance' has, which is essentially an endless supply of power cells for us! This BL9 Safety Base now belongs to you, survivor of hope in life, you can live, love, try to procreate, build a family in your own really safe shelter! This is what we will also try to do! May God keep you, keep all of us healthy, safe, bring you, bring all of us luck hopefully as well",
-    "speaker_effect": { "effect": { "u_add_var": "BL9_shields_on", "type": "dialogue", "context": "lifehope", "value": "yes" } },
+    "speaker_effect": { "effect": { "u_add_var": "BL9_shields_on", "value": "yes" } },
     "responses": [ { "text": "Same to you", "topic": "TALK_BL9_BASE_ANDROID" } ]
   },
   {
