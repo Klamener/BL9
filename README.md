@@ -1,5 +1,5 @@
 # Note from fork author
-This fork is done so it works on experimental from 26.01.2025. I dunno if it works in the future. There were some dirty hacks, also you may have problems with mon_zombie_bio_op texture when it gets obsoleted. I dunno if i maintain it in the future.
+This fork is done so it works on experimental from 26.01.2025. I dunno if it works in the future. There were some dirty hacks, also you may have problems with mon_zombie_bio_op texture when it gets obsoleted. I dunno if i maintain it in the future. Also allowed Bl9 infused soldering iron to use all batteries because of battery audit that lowered energy values.
 Link to original:https://github.com/Kenan2000/BL9
 # Everything below is from original author
 # BL9
